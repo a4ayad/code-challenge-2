@@ -12,7 +12,7 @@ Due 11/16 at 8:30 AM
 * I need to fix the hover and create adequate space between the buttons
 
 
-**Steps**
+**Tasks Completed**
 
 * Fork my own copy of https://github.com/msimbo/code-challenge-2 into my github account
 * Cloned this repo to my local directory: https://github.com/msimbo/code-challenge-2.git 
