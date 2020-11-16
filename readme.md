@@ -1,9 +1,16 @@
 ## Readme.md file for Code Challenge 2
-Instructions: https://nimb.ws/k50A2z
+
+**Instructions**
+
+* https://nimb.ws/k50A2z
 
 Assigned 11/12 4:34 PM 
 
 Due 11/16 at 8:30 AM 
+
+**Tasks to do**
+* I need to fix the hover and create adequate space between the buttons
+
 
 **Steps**
 
@@ -45,3 +52,6 @@ From cmder:
 * Deployed https://github.com/a4ayad/code-challenge-2.git to Vercel https://vercel.com/a4ayad
 
 Vercel: https://code-challenge-2-smoky.vercel.app/
+
+
+
