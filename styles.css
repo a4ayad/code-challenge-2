@@ -32,7 +32,42 @@
     height: 25px;
 }
 
+#center img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    margin-top: 50px;
+}
+
 abbr {
     cursor: pointer;
     text-decoration: none;
+}
+
+input {
+    border-radius: 10px;
+    border: 1px solid #eee;
+    width: 400px;
+}
+
+button {
+    border-radius: 5px;
+    border: chocolate;
+    height: 30px;
+    /*padding: 10px;*/
+    /*display: flex;*/
+    justify-content: space-between;
+}
+.center-container {
+    display: flex;
+    justify-content: center;
+}
+
+.center {
+    display: inline;
+    margin-left: auto;
+    margin-left: auto;
+    width: 30%;
+    justify-content: center;
 }
